@@ -61,3 +61,10 @@ function placeOrder() {
   totalAmount = 0;
   updateCart();
 }
+
+//  function callNumber(select) {
+//     const number = select.value;
+//     if (number) {
+//       window.location.href = number;
+//     }
+//   }
